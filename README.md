@@ -1,2 +1,2 @@
 # JavaScript
- Aprendendo JavaScript para se tornar um dev Junior
+ Aprendendo JavaScript para se tornar um dev Junior.
